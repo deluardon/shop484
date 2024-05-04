@@ -1,0 +1,41 @@
+@media screen and (max-width: 768px) {
+    .icon {
+        display: none; /* Hide icon on small screens */
+    }
+    .menu-bar{
+        display: none;
+    }
+    .text-fild{
+        display: none;
+    }
+    .sc-icon{
+        display: none;
+    }
+    .banner-item{
+        /* position: none;
+        margin-top: 170px; */
+        display: none;
+        
+    }
+    .banner-img{
+        position: relative;
+    }
+    .banner-info{
+        position: absolute;
+        text-align: center;
+        top: 30%;
+        left: 20%;
+        
+    }
+}
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+    .icon {
+        display: none; /* Hide icon on tablet screens */
+    }
+    .banner-item{
+        /* position: none;
+        margin-top: 170px; */
+        display: none;
+        
+    }
+}

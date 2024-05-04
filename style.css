@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.text-fild{
+    position: relative;
+}
+.sc-icon{
+    position: relative;
+    right:10%;
+}
+.banner-img{
+    position: relative;
+}
+.banner-item{
+    position: relative;
+    bottom: 130px;
+}
+.banner-img{
+    position: relative;
+}
+.banner-info{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 40%;
+    
+}
+.man-icon{
+    background-color: rgb(152, 152, 152);
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.btn-shop{
+    position: relative;
+    top: 10px;
+    left: 50%;
+    
+}
